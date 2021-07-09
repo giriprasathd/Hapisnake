@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Techincal content writer at Geeksgod
+- 🌱 I’m currently learning( B.E biomedical Enginnering) at Vel tech multi tech Dr.Rangarajan Dr.sakunthala Engineering college 
+- 
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- Linkedin:
+- Discord:
+- Telegram:
+- 
+- 😄 Pronouns: He/him
+- 
+
 <!--
 **hapisnake/Hapisnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
