@@ -5,10 +5,10 @@
 - 
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- Linkedin:
+- Linkedin:https://www.linkedin.com/in/giri-prasath-d-907b5b19a/
 - Discord:
-- Telegram:
-- 
+- Blog:https://giriprasathbiomedical.medium.com/
+- Twitter
 - 😄 Pronouns: He/him
 - 
 
