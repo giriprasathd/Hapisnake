@@ -5,7 +5,8 @@
 - 
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- Linkedin:https://www.linkedin.com/in/giri-prasath-d-907b5b19a/
+- Linkedin:<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+- 
 - Discord:
 - Blog:https://giriprasathbiomedical.medium.com/
 - Twitter
